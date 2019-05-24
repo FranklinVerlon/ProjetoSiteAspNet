@@ -1,0 +1,23 @@
+c:\users\aluno\documents\visual studio 2013\Projects\WebApplication8\WebApplication8\bin\WebApplication8.dll.config
+c:\users\aluno\documents\visual studio 2013\Projects\WebApplication8\WebApplication8\bin\WebApplication8.dll
+c:\users\aluno\documents\visual studio 2013\Projects\WebApplication8\WebApplication8\bin\WebApplication8.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\WebApplication8\WebApplication8\obj\Debug\PW_P2.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\WebApplication8\WebApplication8\obj\Debug\WebApplication8.dll
+c:\users\aluno\documents\visual studio 2013\Projects\WebApplication8\WebApplication8\obj\Debug\WebApplication8.pdb
+C:\Users\Franklin Verlon\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual Web Developer\P2_PWEB\obj\Debug\PW_P2.csprojAssemblyReference.cache
+C:\Users\Franklin Verlon\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual Web Developer\P2_PWEB\obj\Debug\PW_P2.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Verlon\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual Web Developer\P2_PWEB\obj\Debug\WebApplication8.dll
+C:\Users\Franklin Verlon\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual Web Developer\P2_PWEB\bin\WebApplication8.dll.config
+C:\Users\Franklin Verlon\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual Web Developer\P2_PWEB\bin\WebApplication8.dll
+C:\Users\Franklin Verlon\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual Web Developer\P2_PWEB\bin\WebApplication8.pdb
+C:\Users\Franklin Verlon\Documents\Visual Studio 2017\Templates\ProjectTemplates\Visual Web Developer\P2_PWEB\obj\Debug\WebApplication8.pdb
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\bin\WebApplication8.dll.config
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\bin\WebApplication8.dll
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\bin\WebApplication8.pdb
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\obj\Debug\PW_P2.csprojAssemblyReference.cache
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\obj\Debug\PW_P2.csproj.CoreCompileInputs.cache
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\obj\Debug\WebApplication8.dll
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\obj\Debug\WebApplication8.pdb
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\bin\MySql.Data.dll
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\bin\MySql.Data.xml
+C:\Users\Franklin Verlon\source\repos\P2_PWEB\obj\Debug\PW_P2.csproj.CopyComplete
